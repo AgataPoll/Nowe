@@ -1,1 +1,2 @@
 Pierwszy plik
+Zostal zmieniony lokalnie w branch1
