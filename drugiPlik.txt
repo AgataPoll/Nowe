@@ -1,1 +1,2 @@
 Drugi plik
+Zmiana na lokalnym branch1.
